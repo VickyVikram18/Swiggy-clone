@@ -1,0 +1,22 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VickyVikram18/Swiggy-clone.git"
+  },
+  "author": "Vikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VickyVikram18/Swiggy-clone/issues"
+  },
+  "homepage": "https://github.com/VickyVikram18/Swiggy-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
